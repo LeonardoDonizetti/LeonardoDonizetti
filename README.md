@@ -9,7 +9,7 @@
     align="right"
     style="border-radius: 15px;"
     src="https://raw.githubusercontent.com/LeonardoDonizetti/LeonardoDonizetti/main/walter-white-phone.gif"
-    width="100"
+    width="140"
     alt="Walter White"
   >
 </div>
