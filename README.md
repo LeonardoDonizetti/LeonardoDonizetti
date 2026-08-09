@@ -1,10 +1,19 @@
 ## Olá! Eu sou o Leonardo, desenvolvedor Full-Stack em formação!
 <div>
-  <a href="https://github.com/LeonardoDonizetti">
   <img height="180em" src="https://github-stats-extended.vercel.app/api?username=LeonardoDonizetti&rank_icon=github&show_icons=true&include_all_commits=true&theme=dark">
   <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs?username=LeonardoDonizetti&layout=compact&langs_count=8&theme=dark">
 </div>
-    
+
+<div class="ww">
+  <img 
+    align="right"
+    style="border-radius: 15px;"
+    src="https://raw.githubusercontent.com/LeonardoDonizetti/LeonardoDonizetti/main/walter-white-phone.gif"
+    width="135"
+    alt="Walter White"
+  >
+</div>
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Leo-Js" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
   &nbsp;
@@ -17,11 +26,10 @@
   <img align="center" alt="Leo-react" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg">
   &nbsp;
   <img align="center" alt="Leo-mysql" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg">
-  <img align="right" alt="saymyname" src="https://tenor.com/pt-BR/view/walter-white-phone-subway-surfers-angry-happy-gif-25751771">
+  &nbsp;&nbsp;&nbsp;
  </div>
   
-
-  ##
+  <br>
 
   <a href="https://youtube.com/@ydonizetti?si=W5dz66p_0B9ZJEXz" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/bjjdonizetti/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
