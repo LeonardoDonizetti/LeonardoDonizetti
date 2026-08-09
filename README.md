@@ -1,9 +1,4 @@
-## Hi there 👋
-
-<!--
-**LeonardoDonizetti/LeonardoDonizetti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+## Olá! Eu sou o Leonardo, Estudante e desenvolvedor Full-Stack em formação!
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
