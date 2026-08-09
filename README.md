@@ -7,10 +7,10 @@
 <div class="ww">
   <img 
     align="right"
-    style="border-radius: 15px;"
     src="https://raw.githubusercontent.com/LeonardoDonizetti/LeonardoDonizetti/main/walter-white-phone.gif"
-    width="140"
+    width="135"
     alt="Walter White"
+    style="position: absolute; right: 0; bottom: 0;"
   >
 </div>
 
