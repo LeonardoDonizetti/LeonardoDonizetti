@@ -2,7 +2,9 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    # 03:00 no horário de Brasília (UTC-3)
+    - cron: "0 6 * * *"
+
   workflow_dispatch:
 
 permissions:
