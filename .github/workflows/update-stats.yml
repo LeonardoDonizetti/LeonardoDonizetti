@@ -1,15 +1,17 @@
-name: Atualizar GitHub Stats
+name: Update GitHub Stats
 
 on:
   schedule:
-    - cron: "0 3 * * *"
+    # 03:00 no horário de Brasília (UTC-3)
+    - cron: "0 6 * * *"
+
   workflow_dispatch:
 
 permissions:
   contents: write
 
 jobs:
-  update-stats:
+  update:
     runs-on: ubuntu-latest
 
     steps:
@@ -18,9 +20,11 @@ jobs:
 
       - name: Atualizar cache dos cards
         run: |
-          sed -i "s/&v=[0-9]*/\&v=$(date +%s)/g" README.md
+          TIMESTAMP=$(date +%s)
 
-      - name: Commit das alterações
+          sed -i "s/&v=[0-9]*/\&v=$TIMESTAMP/g" README.md
+
+      - name: Salvar atualização
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
