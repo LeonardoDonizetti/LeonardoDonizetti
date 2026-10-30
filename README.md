@@ -1,8 +1,8 @@
 ## Olá! Eu sou o Leonardo, desenvolvedor Full-Stack em formação!
 
 <div>
-  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=LeonardoDonizetti&rank_icon=github&show_icons=true&include_all_commits=true&theme=dark&v=1793274828">
-  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs?username=LeonardoDonizetti&layout=compact&langs_count=8&theme=dark&v=1793274828">
+  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=LeonardoDonizetti&rank_icon=github&show_icons=true&include_all_commits=true&theme=dark&v=1793360853">
+  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs?username=LeonardoDonizetti&layout=compact&langs_count=8&theme=dark&v=1793360853">
 </div>
 
 <div class="ww">
